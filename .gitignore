@@ -1,0 +1,17 @@
+.svn
+
+*/logs
+
+/server/public
+
+package-lock.json
+
+*.history
+
+node_modules
+
+server/node_modules
+
+client/node_modules
+
+*node_modules
